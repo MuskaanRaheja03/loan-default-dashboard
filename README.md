@@ -1,4 +1,3 @@
-#loan-default-dashboard
 # 📊 Loan Default Risk Analysis and Credit Profile Dashboard
 
 This Power BI dashboard analyzes loan issuance and default trends from **2007 to 2018** across borrower risk categories and loan purposes. It identifies **default-prone segments**, highlights **purpose-driven patterns**, and enables **data-driven risk management** for lending institutions.
@@ -20,8 +19,8 @@ To provide an interactive dashboard for stakeholders to:
 
 | File | Description |
 |------|-------------|
-| `Loan Default Risk and Credit Profile Dashboard.pbix` | Power BI dashboard file |
-| `loan_dashboard_screenshot.jpg` | Snapshot preview of the full dashboard |
+| `Loan Default Risk Analysis and Credit Profile Dashboard.pbix` | Power BI dashboard file |
+| `dashboard_preview.jpeg` | Snapshot preview of the full dashboard |
 | `README.md` | This documentation file |
 
 ---
